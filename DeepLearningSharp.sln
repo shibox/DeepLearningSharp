@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepLearningSharp", "DeepLearningSharp\DeepLearningSharp.csproj", "{0208AABB-178C-4CAD-B654-4209E6D3C87F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepLearningConsole", "DeepLearningConsole\DeepLearningConsole.csproj", "{089CEF03-20B4-4526-8558-008F0B28CD2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0208AABB-178C-4CAD-B654-4209E6D3C87F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0208AABB-178C-4CAD-B654-4209E6D3C87F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0208AABB-178C-4CAD-B654-4209E6D3C87F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{089CEF03-20B4-4526-8558-008F0B28CD2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{089CEF03-20B4-4526-8558-008F0B28CD2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{089CEF03-20B4-4526-8558-008F0B28CD2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{089CEF03-20B4-4526-8558-008F0B28CD2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
